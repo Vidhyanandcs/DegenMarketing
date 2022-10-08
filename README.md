@@ -40,12 +40,17 @@ The marketing strategy is designed with the analysis that has been done above. T
 
 1. **Collaborate with influencers from etherum space**: The Influencers from ETH can be brought in for collaborations especially in the NFT space where the NFTs are minted on ETH and utility will be provided on the Algorand blockchain. This will attract degens as it makes sense for the degens to utilize the lower cost and instant finality of algorand blockchain.
 
-2. **Provide Soul Bound NFTs**: For cross conferences and events soul Bound NFts can be given which will act as an entry into an ecosystem or another perticular event. This can also act asa discount coupon in the real world. The utility will have great impact on the degens from the other ecosystem which can attract more people.
+2. **Provide Soul Bound NFTs**: For cross conferences and events soul Bound NFTs can be given which will act as an entry into an ecosystem or another perticular event. This can also act asa discount coupon in the real world. The utility will have great impact on the degens from the other ecosystem which can attract more people.
 
 3. **Cross Chain NFTs/Tokens**: Create cross chain NFTs which will allow degens from other chain to interact with the ecosystem. Bridges to other chains is important in this case where we can move NFTs to and fro across chains. Even defi tokens can be moved this way to attract degens.
 
-4 **Community Champions**: Appoint community champions who are active in the algorand community. We have to make sure that there is at-least one active community member in the top 30 countries and they remain active across the year.
-They can go to local blockchain events meet degens and interact with them and spread awareness. They can also provide valuable feedback which can be used by the foundation to change the strategy as per changing need of the ecosystem in the country.
+4. **Community Champions Interaction**: Appoint community champions who are active in the algorand community. We have to make sure that there is at-least one active community member in the top 30 countries and they remain active across the year. They can go to local blockchain events meet degens and interact with them and spread awareness. They can also participate in twitter spaces in their respective time zones to interact with degens. They can also provide valuable feedback which can be used by the foundation to change the strategy as per changing needs of the ecosystem in the specific country.
+
+5. **Local Language Support**: A local language support for Algorand website and major dApps may help to attract users from the nations where English is not the primary language (focus on countries like Ukraine, Philippines, Japan, Thailand, Bangladesh, Kenya etc..).
+
+6. **Ledger Support**: We have to enable ledger support for all dApps so that the degens from other ecosystems who are having a big investment in crypto (usually stored in ledger accounts) will be more willing to use defi on algorand.
+
+
 
 
 
